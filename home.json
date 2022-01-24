@@ -1,0 +1,415 @@
+{
+    "namaWeb" : "Lawyer",
+    "linkWeb" : "https://preview.colorlib.com/theme/lawyer/",
+    "headers" : [
+        {
+            "kiri" : {
+                "text" : "LAWYER",
+                "img" : "data:image/webp;base64,UklGRogBAABXRUJQVlA4THsBAAAvqwAOEI8gkE3unP/SEJAkfu4/CUgSP/ef1ESSpJx/RSfoMqan6APwfzxcPBxcHGwcLAwaCQeDKoRs27bpQNrLCSIc0f//uUhdU68d0f8J+Pe31h/6P2e83M+8XDsvPt2lLGrpkvysCy/XoqwXd5nb+MUK9VkC3zSOqcI1GS5Jhk+GLwhxvifHYjTwt7iBcyMYkhIkSTc2pkqUVIlamR46WVKDt7hIsIs0ScEIkipJy4hLhn+eIvUlDjzRNhen1EkHLiXayomqZL1f5xiVtOkcUqFeFCmEe6WIW+hfMAL9HU6KBoyVjKEj3J2oTtTWgazdsm6slGIUvYPRpcy1ydRBlIxxUXaKhP7A3N3vXQwcVe/QOCQ14qaRK0XKtER/0Eh6oodOVsX0EpltXw0s06XGGWw8cPIXKFLeYYTQ3N0TZaUDTNIAsr6Lw/2bne7ep0rU3LFNgVOSIrRPCz4/USb9ZrNNkbqQ4asOPl2E+9PW95MRaL/W6/+Py58aAA==",
+                "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+            },
+            
+            "tengah" : [
+                {
+                    "text" : "home",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+                },
+
+                {
+                    "text" : "About",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/about.html"
+                },
+
+                {
+                    "text" : "Practice area",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/Practice.html"
+                },
+
+                {
+                    "text" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#",
+                    "attributes" : [
+                        {
+                            "text" : "Blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/blog.html"
+                        },
+                        {
+                            "text" : "Single-blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "Pages",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#",
+                    "attribute" : {
+                        "text" : "Elements",
+                        "url" : "https://preview.colorlib.com/theme/lawyer/elements.html"
+                    }
+                },
+
+                {
+                    "text" : "Contact",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html"
+                }
+                
+            ],
+
+            "kanan" : [
+                {
+                    "class" : "fa fa-facebook",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                },
+
+                {
+                    "class" : "fa fa-twitter",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                },
+
+                {
+                    "class" : "fa fa-instagram",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                }
+            ],
+
+            "menu" : [
+                {
+                    "text" : "home",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+                },
+
+                {
+                    "text" : "About",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/about.html"
+                },
+
+                {
+                    "text" : "Practice area",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/Practice.html"
+                },
+
+                {
+                    "text" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#",
+                    "attributes" : [
+                        {
+                            "text" : "Blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/blog.html"
+                        },
+                        {
+                            "text" : "Single-blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "Pages",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#",
+                    "attribute" : {
+                        "text" : "Elements",
+                        "url" : "https://preview.colorlib.com/theme/lawyer/elements.html"
+                    }
+                },
+
+                {
+                    "text" : "Contact",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html"
+                }
+            ]
+        }
+    ],
+
+    "body" : [
+        {
+            "single-slider" : {
+                "judul" : "High Quality Law Advice and Support",
+                "text" : "Leading Polish Lawyer in your city",
+                "button" : "Learn More",
+                "url" : "https://preview.colorlib.com/theme/lawyer/#"
+            },
+
+            "bawahSingle-slider" : [
+                {
+                    "kiri" : {
+                        "img-1" : "https://preview.colorlib.com/theme/lawyer/img/about/x1.png.pagespeed.ic.qHDb3E_4R2.webp",
+                        "judul" : "Finest And Strongest Law Firm Win The World",
+                        "text" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                        "img-2" : "data:image/webp;base64,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"
+                    },
+                    
+                    "kanan" : {
+                        "judul-1" : "93",
+                        "text-1" : "Success Case",
+                        "judul-2" : "About Lawyer Justice",
+                        "text-2" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                        "judul-3" : "879",
+                        "text-3" : "Total Cases",
+                        "judul-4" : "787",
+                        "text-4" : "Case Won"
+                    }
+                }
+            ],
+
+            "practice-area" : [
+                {
+                    "judul" : "Practice Area",
+                    "text" : "Many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some",
+                    "attributes" : [
+                        {
+                            "item 1" : {
+                                "img" : "img/practice/x1.png.pagespeed.ic.7Z7hUdCVsN.webp",
+                                "judul" : "Business Law",
+                                "text" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered",
+                                "button" : "Learn More",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                            },
+
+                            "item 2" : {
+                                "img" : "img/practice/x2.png.pagespeed.ic.hLJJB0v_fI.webp",
+                                "judul" : "Finance Law",
+                                "text" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered",
+                                "button" : "Learn More",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                            },
+
+                            "item 3" : {
+                                "img" : "img/practice/x3.png.pagespeed.ic.zi0vdVpjpd.webp",
+                                "judul" : "Family Law",
+                                "text" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered",
+                                "button" : "Learn More",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                            },
+                            
+                            "item 4" : {
+                                "img" : "img/practice/x4.png.pagespeed.ic.Z1zOU3RXnJ.webp",
+                                "judul" : "Education Law",
+                                "text" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered",
+                                "button" : "Learn More",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                            }
+                        }
+                    ]
+                }
+            ],
+
+            "our-lawyers" : [
+                {
+                    "judul" : "Our Laweyers",
+                    "text" : "Many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some.",
+                    "attributes" : [
+                        {
+                            "item 1" : {
+                                "img" : "https://preview.colorlib.com/theme/lawyer/img/lawyers/x1.png.pagespeed.ic.IZM5X6jPRO.webp",
+                                "judul" : "Henry Miller",
+                                "text" : "Family Lawyer",
+                                "sosmed" : [
+                                    {
+                                        "class" :"fa fa-facebook",
+                                        "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                    },
+
+                                    {
+                                        "class" : "fa fa-twitter",
+                                        "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                    },
+
+                                    {
+                                        "class" :"fa fa-instagram",
+                                        "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                    }
+                                ]
+                            },
+
+                            "item 2" : {
+                                "img" : "https://preview.colorlib.com/theme/lawyer/img/lawyers/x2.png.pagespeed.ic.JGgORa6Xo8.webp",
+                                "judul" : "Jon Anderson",
+                                "text" : "Consumer Lawyer",
+                                "sosmed" : [
+                                    {
+                                        "class" :"fa fa-facebook",
+                                        "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                    },
+
+                                    {
+                                        "class" : "fa fa-twitter",
+                                        "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                    },
+
+                                    {
+                                        "class" :"fa fa-instagram",
+                                        "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                    }
+                                ]
+                            },
+
+                            "item 3" : {
+                                "img" : "https://preview.colorlib.com/theme/lawyer/img/lawyers/x3.png.pagespeed.ic.wVOqNtLo8b.webp",
+                                "judul" : "Jaky Nadan",
+                                "text" : "Criminal Lawyer",
+                                "sosmed" : [
+                                    {
+                                        "class" :"fa fa-facebook",
+                                        "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                    },
+
+                                    {
+                                        "class" : "fa fa-twitter",
+                                        "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                    },
+
+                                    {
+                                        "class" :"fa fa-instagram",
+                                        "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+
+            "stage-outer" : {
+                "class-1" : "fa fa-angle-left",
+                "quotes" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "text" : "Millan Mirza",
+                "img" : "data:image/webp;base64,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",
+                "class-2" : "fa fa-angle-right"
+            },
+
+            "appointment" : [
+                {
+                    "img" : "https://preview.colorlib.com/theme/lawyer/img/appointment/x1.png.pagespeed.ic.WVlUAlu3yc.webp",
+                    "judul" : "Make an Appointment",
+                    "text" : "Many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some.",
+                    "attributes" : [
+                        {
+                            "placeholder" : "Your Name"
+                        },
+
+                        {
+                            "placeholder" : "Your email"
+                        },
+
+                        {
+                            "placeholder" : "Phone no."
+                        },
+
+                        {
+                            "placeholder" : "Appointment date",
+                            "class" : "fa fa-calender"
+                        },
+
+                        {
+                            "placeholder" : "Message"
+                        },
+
+                        {
+                            "text" : "Submit"
+                        }
+                    ]
+                }
+            ]    
+        }
+    ],
+
+    "footer" : [
+        {
+            "atas" : [
+                {
+                    "bag-1" : [
+                        {
+                            "img" : "data:image/webp;base64,UklGRogBAABXRUJQVlA4THsBAAAvqwAOEI8gkE3unP/SEJAkfu4/CUgSP/ef1ESSpJx/RSfoMqan6APwfzxcPBxcHGwcLAwaCQeDKoRs27bpQNrLCSIc0f//uUhdU68d0f8J+Pe31h/6P2e83M+8XDsvPt2lLGrpkvysCy/XoqwXd5nb+MUK9VkC3zSOqcI1GS5Jhk+GLwhxvifHYjTwt7iBcyMYkhIkSTc2pkqUVIlamR46WVKDt7hIsIs0ScEIkipJy4hLhn+eIvUlDjzRNhen1EkHLiXayomqZL1f5xiVtOkcUqFeFCmEe6WIW+hfMAL9HU6KBoyVjKEj3J2oTtTWgazdsm6slGIUvYPRpcy1ydRBlIxxUXaKhP7A3N3vXQwcVe/QOCQ14qaRK0XKtER/0Eh6oodOVsX0EpltXw0s06XGGWw8cPIXKFLeYYTQ3N0TZaUDTNIAsr6Lw/2bne7ep0rU3LFNgVOSIrRPCz4/USb9ZrNNkbqQ4asOPl2E+9PW95MRaL/W6/+Py58aAA==",
+                            "text-1" : "LAWYER",
+                            "text-2" :"200, A-block, Green road, USA +10 367 267 2678",
+                            "text-3" : "lawyer@contact.com",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/index.html#",
+                            "sosmed" : [
+                                {
+                                    "class" :"fa fa-facebook",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                },
+                            
+                                {
+                                    "class" : "fa fa-twitter",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                },
+                            
+                                {
+                                    "class" :"fa fa-instagram",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html#"
+                                }
+                            ]
+                        }
+                    ],
+                
+                    "bag-2" : [
+                        {
+                            "judul" : "Practice Area",
+                            "attributes" : [
+                                {
+                                    "text" : "Business Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                                },
+                            
+                                {
+                                    "text" : "Finance Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                                },
+                            
+                                {
+                                    "text" : "Education Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                                },
+                            
+                                {
+                                    "text" : "Family Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                                }
+                            ]
+                        }
+                    ],
+                
+                    "bag-3" : [
+                        {
+                            "judul" : "Useful Links",
+                            "attributes" : [
+                                {
+                                    "text" : "About",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                                },
+                            
+                                {
+                                    "text" : "Blog",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                                },
+                            
+                                {
+                                    "text" : "Contact",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                                }
+                            ]
+                        }
+                    ],
+                
+                    "bag-4" :[
+                        {
+                            "judul" : "Subscribe",
+                            "attributes" : {
+                                "placeholder" : "Enter your mail",
+                                "button" : "Sign up",
+                                "text" : "Subscribe newsletter to get updates"
+                            }
+                        }
+                    ]
+                }
+            ],
+
+            "bawah" : {
+                "text" : "Copyright ©2022 All rights reserved | This template is made with  by Colorlib",
+                "url" : "https://colorlib.com/"
+            }
+        }
+    ]
+}

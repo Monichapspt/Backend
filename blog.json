@@ -1,0 +1,913 @@
+{
+    "namaWeb" : "Lawyer",
+    "linkWeb" : "https://preview.colorlib.com/theme/lawyer/",
+    "headers" : [
+        {
+            "kiri" : {
+                "text" : "LAWYER",
+                "img" : "data:image/webp;base64,UklGRogBAABXRUJQVlA4THsBAAAvqwAOEI8gkE3unP/SEJAkfu4/CUgSP/ef1ESSpJx/RSfoMqan6APwfzxcPBxcHGwcLAwaCQeDKoRs27bpQNrLCSIc0f//uUhdU68d0f8J+Pe31h/6P2e83M+8XDsvPt2lLGrpkvysCy/XoqwXd5nb+MUK9VkC3zSOqcI1GS5Jhk+GLwhxvifHYjTwt7iBcyMYkhIkSTc2pkqUVIlamR46WVKDt7hIsIs0ScEIkipJy4hLhn+eIvUlDjzRNhen1EkHLiXayomqZL1f5xiVtOkcUqFeFCmEe6WIW+hfMAL9HU6KBoyVjKEj3J2oTtTWgazdsm6slGIUvYPRpcy1ydRBlIxxUXaKhP7A3N3vXQwcVe/QOCQ14qaRK0XKtER/0Eh6oodOVsX0EpltXw0s06XGGWw8cPIXKFLeYYTQ3N0TZaUDTNIAsr6Lw/2bne7ep0rU3LFNgVOSIrRPCz4/USb9ZrNNkbqQ4asOPl2E+9PW95MRaL/W6/+Py58aAA==",
+                "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+            },
+            
+            "tengah" : [
+                {
+                    "text" : "home",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+                },
+
+                {
+                    "text" : "About",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/about.html"
+                },
+
+                {
+                    "text" : "Practice area",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/Practice.html"
+                },
+
+                {
+                    "text" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#",
+                    "attributes" : [
+                        {
+                            "text" : "Blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/blog.html"
+                        },
+                        {
+                            "text" : "Single-blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "Pages",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#",
+                    "attribute" : {
+                        "text" : "Elements",
+                        "url" : "https://preview.colorlib.com/theme/lawyer/elements.html"
+                    }
+                },
+
+                {
+                    "text" : "Contact",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html"
+                }
+                
+            ],
+
+            "kanan" : [
+                {
+                    "class" : "fa fa-facebook",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                },
+
+                {
+                    "class" : "fa fa-twitter",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                },
+
+                {
+                    "class" : "fa fa-instagram",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                }
+            ],
+
+            "menu" : [
+                {
+                    "text" : "home",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+                },
+
+                {
+                    "text" : "About",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/about.html"
+                },
+
+                {
+                    "text" : "Practice area",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/Practice.html"
+                },
+
+                {
+                    "text" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#",
+                    "attributes" : [
+                        {
+                            "text" : "Blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/blog.html"
+                        },
+                        {
+                            "text" : "Single-blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "Pages",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#",
+                    "attributes" : {
+                        "text" : "Elements",
+                        "url" : "https://preview.colorlib.com/theme/lawyer/elements.html"
+                    }
+                },
+
+                {
+                    "text" : "Contact",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html"
+                }
+            ]
+        }
+    ],
+
+    "body" : [
+        {
+            "blog" : [
+                {
+                    "judul" : "Blog",
+                    "attributes" : [
+                        {
+                            "artikel-1" : [
+                                {
+                                    "class-1" : {
+                                        "class" : "blog-item-img",
+                                        "img" : "https://preview.colorlib.com/theme/lawyer/img/blog/xsingle_blog_1.png.pagespeed.ic.Vb11bfvxZv.webp"
+                                    },
+
+                                    "class-2" : {
+                                        "class" : "blog-item-date",
+                                        "judul" : "15",
+                                        "text" : "Jan"
+                                    },
+
+                                    "class-3" : {
+                                        "class" : "blog-detail",
+                                        "attribute" : [
+                                            {
+                                                "class" : "d-inline-block",
+                                                "judul" : "Google inks pact for new 35-storey office",
+                                                "text" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying."
+                                            }
+                                        ]
+                                    },
+
+                                    "class-4" : {
+                                        "class" : "blog-info-link",
+                                        "attribtes" : [
+                                            {
+                                                "i-class-1" : "fa fa-user",
+                                                "url-1" : "https://preview.colorlib.com/theme/lawyer/blog.html#",
+                                                "text-1" : " Travel, Lifestyle",
+                                                "i-class-2" : "fa fa-comments",
+                                                "text-2" : " 03 Comments",
+                                                "url-2" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+
+                            "artikel-2" : [
+                                {
+                                    "class-1" : {
+                                        "class" : "blog-item-img",
+                                        "img" : "https://preview.colorlib.com/theme/lawyer/img/blog/xsingle_blog_2.png.pagespeed.ic.poum1l12np.webp"
+                                    },
+
+                                    "class-2" : {
+                                        "class" : "blog-item-date",
+                                        "judul" : "15",
+                                        "text" : "Jan"
+                                    },
+
+                                    "class-3" : {
+                                        "class" : "blog-detail",
+                                        "attribute" : [
+                                            {
+                                                "class" : "d-inline-block",
+                                                "judul" : "Google inks pact for new 35-storey office",
+                                                "text" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying."
+                                            }
+                                        ]
+                                    },
+
+                                    "class-4" : {
+                                        "class" : "blog-info-link",
+                                        "attribtes" : [
+                                            {
+                                                "i-class-1" : "fa fa-user",
+                                                "url-1" : "https://preview.colorlib.com/theme/lawyer/blog.html#",
+                                                "text-1" : " Travel, Lifestyle",
+                                                "i-class-2" : "fa fa-comments",
+                                                "text-2" : " 03 Comments",
+                                                "url-2" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+
+                            "artikel-3" : [
+                                {
+                                    "class-1" : {
+                                        "class" : "blog-item-img",
+                                        "img" : "https://preview.colorlib.com/theme/lawyer/img/blog/xsingle_blog_3.png.pagespeed.ic.v6Ae06IH1p.webp"
+                                    },
+
+                                    "class-2" : {
+                                        "class" : "blog-item-date",
+                                        "judul" : "15",
+                                        "text" : "Jan"
+                                    },
+
+                                    "class-3" : {
+                                        "class" : "blog-detail",
+                                        "attribute" : [
+                                            {
+                                                "class" : "d-inline-block",
+                                                "judul" : "Google inks pact for new 35-storey office",
+                                                "text" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying."
+                                            }
+                                        ]
+                                    },
+
+                                    "class-4" : {
+                                        "class" : "blog-info-link",
+                                        "attribtes" : [
+                                            {
+                                                "i-class-1" : "fa fa-user",
+                                                "url-1" : "https://preview.colorlib.com/theme/lawyer/blog.html#",
+                                                "text-1" : " Travel, Lifestyle",
+                                                "i-class-2" : "fa fa-comments",
+                                                "text-2" : " 03 Comments",
+                                                "url-2" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+
+                            "artikel-4" : [
+                                {
+                                    "class-1" : {
+                                        "class" : "blog-item-img",
+                                        "img" : "https://preview.colorlib.com/theme/lawyer/img/blog/xsingle_blog_4.png.pagespeed.ic.cZ-GaUx1n2.webp"
+                                    },
+
+                                    "class-2" : {
+                                        "class" : "blog-item-date",
+                                        "judul" : "15",
+                                        "text" : "Jan"
+                                    },
+
+                                    "class-3" : {
+                                        "class" : "blog-detail",
+                                        "attribute" : [
+                                            {
+                                                "class" : "d-inline-block",
+                                                "judul" : "Google inks pact for new 35-storey office",
+                                                "text" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying."
+                                            }
+                                        ]
+                                    },
+
+                                    "class-4" : {
+                                        "class" : "blog-info-link",
+                                        "attribtes" : [
+                                            {
+                                                "i-class-1" : "fa fa-user",
+                                                "url-1" : "https://preview.colorlib.com/theme/lawyer/blog.html#",
+                                                "text-1" : " Travel, Lifestyle",
+                                                "i-class-2" : "fa fa-comments",
+                                                "text-2" : " 03 Comments",
+                                                "url-2" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+
+                            "artikel-5" : [
+                                {
+                                    "class-1" : {
+                                        "class" : "blog-item-img",
+                                        "img" : "https://preview.colorlib.com/theme/lawyer/img/blog/xsingle_blog_5.png.pagespeed.ic.gUD60PPVoP.webp"
+                                    },
+
+                                    "class-2" : {
+                                        "class" : "blog-item-date",
+                                        "judul" : "15",
+                                        "text" : "Jan"
+                                    },
+
+                                    "class-3" : {
+                                        "class" : "blog-detail",
+                                        "attribute" : [
+                                            {
+                                                "class" : "d-inline-block",
+                                                "judul" : "Google inks pact for new 35-storey office",
+                                                "text" : "That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying."
+                                            }
+                                        ]
+                                    },
+
+                                    "class-4" : {
+                                        "class" : "blog-info-link",
+                                        "attribtes" : [
+                                            {
+                                                "i-class-1" : "fa fa-user",
+                                                "url-1" : "https://preview.colorlib.com/theme/lawyer/blog.html#",
+                                                "text-1" : " Travel, Lifestyle",
+                                                "i-class-2" : "fa fa-comments",
+                                                "text-2" : " 03 Comments",
+                                                "url-2" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+
+                    "pagination" : [
+                        {
+                            "class" : "page-item",
+                            "attributes" :[
+                                {
+                                    "class" : "ti-angle-left",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "class" : "page-link",
+                                    "text" : 1,
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "class" : "page-link",
+                                    "text" : 2,
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "class" : "ti-angle-right",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                }
+                            ]
+                        }
+                    ],
+
+                    "aside-1" : {
+                        "pleacholder" : "Search Keyword",
+                        "class" : "ti-search",
+                        "button" : "Search"
+                    },
+
+                    "aside-2" : {
+                        "judul" : "Category",
+                        "class" : "list  cat-list",
+                        "ul" : [
+                            {
+                                "text" : "Resaurant food (37)",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                            },
+
+                            {
+                                "text" : "Travel news (10)",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                            },
+
+                            {
+                                "text" : "Modern technology (03)",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                            },
+
+                            {
+                                "text" : "Product (11)",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                            },
+
+                            {
+                                "text" : "Inspiration21",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                            },
+
+                            {
+                                "text" : "Health Care (21)09",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                            }
+                        ]
+                    },
+
+                    "aside-3" : [
+                        {
+                            "judul" : "Recent Post",
+                            "class" : "media post-item",
+                            "attributes" : [
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_1.png.pagespeed.ic.DHraJO02o0.webp",
+                                    "judul" : "From life was you fish...",
+                                    "text" : "January 12, 2019",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                                },
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_2.png.pagespeed.ic.7vUh6DKCND.webp",
+                                    "judul" : "The Amazing Hubble",
+                                    "text" : "02 Hours ago",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                                },
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_3.png.pagespeed.ic.hn99OMdlg6.webp",
+                                    "judul" : "Astronomy Or Astrology",
+                                    "text" : "03 Hours ago",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                                },
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_4.png.pagespeed.ic.QtzHWu9kKX.webp",
+                                    "judul" : "Asteroids telescope",
+                                    "text" : "01 Hours ago",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                                }
+                            ]
+                        }
+                    ],
+
+                    "aside-4" : [
+                        {
+                            "judul" : "Tag Clouds",
+                            "attributes" : [
+                                {
+                                    "text" : "project",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "text" : "love",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "text" : "technology",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "text" : "travel",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "text" : "restaurant",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "text" : "life style",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "text" : "design",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "text" : "illustration",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                }
+                            ]
+                        }
+                    ],
+
+                    "aside-5" : [
+                        {
+                            "judul" : "Instagram Feeds",
+                            "attributes" : [
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_5.png.pagespeed.ic.cL8lK-c9YT.webp",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_6.png.pagespeed.ic.vbmteNE1r2.webp",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_7.png.pagespeed.ic.mqOeGH8JWi.webp",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_8.png.pagespeed.ic.Ygy58mgHf1.webp",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_9.png.pagespeed.ic.OZBOu4Ei98.webp",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                },
+                                {
+                                    "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_10.png.pagespeed.ic.CIVhclGmCo.webp",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/blog.html#"
+                                }
+                            ]
+                        }
+                    ],
+
+                    "aside-6" : [
+                        {
+                            "judul" : "Newsletter",
+                            "pleacholder" : "Enter email",
+                            "button" : "Subscribe"
+                        }
+                    ]
+                }
+            ],
+
+            "single-blog" : [
+                {
+                    "judul" : "Blog Details",
+                    "attributes" : [
+                        {
+                            "single-post" : [
+                                {
+                                    "feature-img" : {
+                                        "class" : "img-fluid",
+                                        "img" : "https://preview.colorlib.com/theme/lawyer/img/blog/xsingle_blog_1.png.pagespeed.ic.Vb11bfvxZv.webp"
+                                    },
+        
+                                    "blog-details" : [
+                                        {
+                                            "judul" : "Second divided from form fish beast made every of seas all gathered us saying he our",
+                                            "class" : "blog-info-link",
+                                            "attribtes" : [
+                                                {
+                                                    "i-class-1" : "fa fa-user",
+                                                    "url-1" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#",
+                                                    "text-1" : " Travel, Lifestyle",
+                                                    "i-class-2" : "fa fa-comments",
+                                                    "text-2" : " 03 Comments",
+                                                    "url-2" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                }
+                                            ],
+    
+                                            "paragraf" : {
+                                                "class" : "excert",
+                                                "text-1" : "MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower",
+                                                "text-2" : "MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually",
+                                                "quote" : "MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training.",
+                                                "text-3" : "MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower",
+                                                "text-4" : "MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower to actually sit through a self-imposed MCSE training. who has the willpower to actually"
+                                            },
+
+                                            "like" : {
+                                                "class" : "align-middle",
+                                                "i-class" : "fa fa-heart",
+                                                "text" : " Lily and 4 people like this"
+                                            },
+                                            
+                                            "sosmed" : [
+                                                {
+                                                    "class" :"fa fa-facebook",
+                                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                },
+            
+                                                {
+                                                    "class" : "fa fa-twitter",
+                                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                },
+            
+                                                {
+                                                    "class" :"fa fa-dribbele",
+                                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                },
+                                                {
+                                                    "class" : "fa fa-behance",
+                                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                }
+                                            ],
+
+                                            "navigation-area" : [
+                                                {
+                                                    "img-kiri" : {
+                                                        "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpreview.png.pagespeed.ic.MfX6bhtkdw.webp",
+                                                        "text" : "Prev Post",
+                                                        "judul" : "Space The Final Frontier",
+                                                        "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                    },
+
+                                                    "img-kanan" : {
+                                                        "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xnext.png.pagespeed.ic.IfJdhisCtc.webp",
+                                                        "text" : "Next Post",
+                                                        "judul" : "Telescopes 101",
+                                                        "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                    }
+                                                }
+                                            ],
+
+                                            "blog-author" : {
+                                                "img" : "https://preview.colorlib.com/theme/lawyer/img/blog/xauthor.png.pagespeed.ic.ODzYv6n44a.webp",
+                                                "judul" : "Harvard milan",
+                                                "text" : "Second divided from form fish beast made. Every of seas all gathered use saying you're, he our dominion twon Second divided from"
+                                            },
+
+                                            "comment-area" : {
+                                                "judul" : "05 Comments",
+                                                "attrinutes" : [
+                                                    {
+                                                        "comments-1" : {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/comment/xcomment_1.png.pagespeed.ic.nxxwmEk3HK.webp",
+                                                            "text-1" : "Multiply sea night grass fourth day sea lesser rule open subdue female fill which them Blessed, give fill lesser bearing multiply sea night grass fourth day sea lesser",
+                                                            "text-2" : "Emilly Blunt",
+                                                            "url-1" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#",
+                                                            "date" : "December 4, 2017 at 3:12 pm",
+                                                            "text-3" : "Replay",
+                                                            "url-2" :"https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+
+                                                        "comments-2" : {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/comment/xcomment_2.png.pagespeed.ic.rv1J-BlfMh.webp",
+                                                            "text-1" : "Multiply sea night grass fourth day sea lesser rule open subdue female fill which them Blessed, give fill lesser bearing multiply sea night grass fourth day sea lesser",
+                                                            "text-2" : "Emilly Blunt",
+                                                            "url-1" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#",
+                                                            "date" : "December 4, 2017 at 3:12 pm",
+                                                            "text-3" : "Replay",
+                                                            "url-2" :"https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+
+                                                        "comments-3" : {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/comment/xcomment_3.png.pagespeed.ic.1O6TaovPw0.webp",
+                                                            "text-1" : "Multiply sea night grass fourth day sea lesser rule open subdue female fill which them Blessed, give fill lesser bearing multiply sea night grass fourth day sea lesser",
+                                                            "text-2" : "Emilly Blunt",
+                                                            "url-1" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#",
+                                                            "date" : "December 4, 2017 at 3:12 pm",
+                                                            "text-3" : "Replay",
+                                                            "url-2" :"https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+
+                                            "comments-form" : {
+                                                "judul" : "Leave a Reply",
+                                                "placeholder-1" : "write comment",
+                                                "placeholder-2" : "Name",
+                                                "placeholder-3" : "Email",
+                                                "placeholder-4" : "Website",
+                                                "button" : "SEND MESSAGE"
+                                                
+                                            },
+
+                                            "aside-1" : {
+                                                "pleacholder" : "Search Keyword",
+                                                "class" : "ti-search",
+                                                "button" : "Search"
+                                            },
+                        
+                                            "aside-2" : {
+                                                "judul" : "Category",
+                                                "class" : "list  cat-list",
+                                                "ul" : [
+                                                    {
+                                                        "text" : "Resaurant food (37)",
+                                                        "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                    },
+                        
+                                                    {
+                                                        "text" : "Travel news (10)",
+                                                        "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                    },
+                        
+                                                    {
+                                                        "text" : "Modern technology (03)",
+                                                        "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                    },
+                        
+                                                    {
+                                                        "text" : "Product (11)",
+                                                        "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                    },
+                        
+                                                    {
+                                                        "text" : "Inspiration21",
+                                                        "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                    },
+                        
+                                                    {
+                                                        "text" : "Health Care (21)",
+                                                        "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                    }
+                                                ]
+                                            },
+                        
+                                            "aside-3" : [
+                                                {
+                                                    "judul" : "Recent Post",
+                                                    "class" : "media post-item",
+                                                    "attributes" : [
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_1.png.pagespeed.ic.DHraJO02o0.webp",
+                                                            "judul" : "From life was you fish...",
+                                                            "text" : "January 12, 2019",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_2.png.pagespeed.ic.7vUh6DKCND.webp",
+                                                            "judul" : "The Amazing Hubble",
+                                                            "text" : "02 Hours ago",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_3.png.pagespeed.ic.hn99OMdlg6.webp",
+                                                            "judul" : "Astronomy Or Astrology",
+                                                            "text" : "03 Hours ago",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_4.png.pagespeed.ic.QtzHWu9kKX.webp",
+                                                            "judul" : "Asteroids telescope",
+                                                            "text" : "01 Hours ago",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                        
+                                            "aside-4" : [
+                                                {
+                                                    "judul" : "Tag Clouds",
+                                                    "attributes" : [
+                                                        {
+                                                            "text" : "project",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "text" : "love",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "text" : "technology",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "text" : "travel",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "text" : "restaurant",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "text" : "life style",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "text" : "design",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "text" : "illustration",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                        
+                                            "aside-5" : [
+                                                {
+                                                    "judul" : "Instagram Feeds",
+                                                    "attributes" : [
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_5.png.pagespeed.ic.cL8lK-c9YT.webp",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_6.png.pagespeed.ic.vbmteNE1r2.webp",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_7.png.pagespeed.ic.mqOeGH8JWi.webp",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_8.png.pagespeed.ic.Ygy58mgHf1.webp",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_9.png.pagespeed.ic.OZBOu4Ei98.webp",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        },
+                                                        {
+                                                            "img" : "https://preview.colorlib.com/theme/lawyer/img/post/xpost_10.png.pagespeed.ic.CIVhclGmCo.webp",
+                                                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                        
+                                            "aside-6" : [
+                                                {
+                                                    "judul" : "Newsletter",
+                                                    "pleacholder" : "Enter email",
+                                                    "button" : "Subscribe"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+
+    "footer" : [
+        {
+            "atas" : [
+                {
+                    "bag-1" : [
+                        {
+                            "img" : "data:image/webp;base64,UklGRogBAABXRUJQVlA4THsBAAAvqwAOEI8gkE3unP/SEJAkfu4/CUgSP/ef1ESSpJx/RSfoMqan6APwfzxcPBxcHGwcLAwaCQeDKoRs27bpQNrLCSIc0f//uUhdU68d0f8J+Pe31h/6P2e83M+8XDsvPt2lLGrpkvysCy/XoqwXd5nb+MUK9VkC3zSOqcI1GS5Jhk+GLwhxvifHYjTwt7iBcyMYkhIkSTc2pkqUVIlamR46WVKDt7hIsIs0ScEIkipJy4hLhn+eIvUlDjzRNhen1EkHLiXayomqZL1f5xiVtOkcUqFeFCmEe6WIW+hfMAL9HU6KBoyVjKEj3J2oTtTWgazdsm6slGIUvYPRpcy1ydRBlIxxUXaKhP7A3N3vXQwcVe/QOCQ14qaRK0XKtER/0Eh6oodOVsX0EpltXw0s06XGGWw8cPIXKFLeYYTQ3N0TZaUDTNIAsr6Lw/2bne7ep0rU3LFNgVOSIrRPCz4/USb9ZrNNkbqQ4asOPl2E+9PW95MRaL/W6/+Py58aAA==",
+                            "text-1" : "LAWYER",
+                            "text-2" :"200, A-block, Green road, USA +10 367 267 2678",
+                            "text-3" : "lawyer@contact.com",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/index.html",
+                            "sosmed" : [
+                                {
+                                    "class" :"fa fa-facebook",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                },
+                            
+                                {
+                                    "class" : "fa fa-twitter",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                },
+                            
+                                {
+                                    "class" :"fa fa-instagram",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                }
+                            ]
+                        }
+                    ],
+                
+                    "bag-2" : [
+                        {
+                            "judul" : "Practice Area",
+                            "attributes" : [
+                                {
+                                    "text" : "Business Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                },
+                            
+                                {
+                                    "text" : "Finance Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                },
+                            
+                                {
+                                    "text" : "Education Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                },
+                            
+                                {
+                                    "text" : "Family Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                }
+                            ]
+                        }
+                    ],
+                
+                    "bag-3" : [
+                        {
+                            "judul" : "Useful Links",
+                            "attributes" : [
+                                {
+                                    "text" : "About",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                },
+                            
+                                {
+                                    "text" : "Blog",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                },
+                            
+                                {
+                                    "text" : "Contact",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html#"
+                                }
+                            ]
+                        }
+                    ],
+                
+                    "bag-4" :[
+                        {
+                            "judul" : "Subscribe",
+                            "attributes" : {
+                                "placeholder" : "Enter your mail",
+                                "button" : "Sign up",
+                                "text" : "Subscribe newsletter to get updates"
+                            }
+                        }
+                    ]
+                }
+            ],
+
+            "bawah" : {
+                "text" : "Copyright ©2022 All rights reserved | This template is made with  by Colorlib",
+                "url" : "https://colorlib.com/"
+            }
+        }
+    ]
+}

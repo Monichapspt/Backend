@@ -1,0 +1,255 @@
+{
+    "namaWeb" : "Lawyer",
+    "linkWeb" : "https://preview.colorlib.com/theme/lawyer/",
+    "headers" : [
+        {
+            "kiri" : {
+                "text" : "LAWYER",
+                "img" : "data:image/webp;base64,UklGRogBAABXRUJQVlA4THsBAAAvqwAOEI8gkE3unP/SEJAkfu4/CUgSP/ef1ESSpJx/RSfoMqan6APwfzxcPBxcHGwcLAwaCQeDKoRs27bpQNrLCSIc0f//uUhdU68d0f8J+Pe31h/6P2e83M+8XDsvPt2lLGrpkvysCy/XoqwXd5nb+MUK9VkC3zSOqcI1GS5Jhk+GLwhxvifHYjTwt7iBcyMYkhIkSTc2pkqUVIlamR46WVKDt7hIsIs0ScEIkipJy4hLhn+eIvUlDjzRNhen1EkHLiXayomqZL1f5xiVtOkcUqFeFCmEe6WIW+hfMAL9HU6KBoyVjKEj3J2oTtTWgazdsm6slGIUvYPRpcy1ydRBlIxxUXaKhP7A3N3vXQwcVe/QOCQ14qaRK0XKtER/0Eh6oodOVsX0EpltXw0s06XGGWw8cPIXKFLeYYTQ3N0TZaUDTNIAsr6Lw/2bne7ep0rU3LFNgVOSIrRPCz4/USb9ZrNNkbqQ4asOPl2E+9PW95MRaL/W6/+Py58aAA==",
+                "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+            },
+            
+            "tengah" : [
+                {
+                    "text" : "home",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+                },
+
+                {
+                    "text" : "About",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/about.html"
+                },
+
+                {
+                    "text" : "Practice area",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/Practice.html"
+                },
+
+                {
+                    "text" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#",
+                    "attributes" : [
+                        {
+                            "text" : "Blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/blog.html"
+                        },
+                        {
+                            "text" : "Single-blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "Pages",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#",
+                    "attribute" : {
+                        "text" : "Elements",
+                        "url" : "https://preview.colorlib.com/theme/lawyer/elements.html"
+                    }
+                },
+
+                {
+                    "text" : "Contact",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html"
+                }
+                
+            ],
+
+            "kanan" : [
+                {
+                    "class" : "fa fa-facebook",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                },
+
+                {
+                    "class" : "fa fa-twitter",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                },
+
+                {
+                    "class" : "fa fa-instagram",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                }
+            ],
+
+            "menu" : [
+                {
+                    "text" : "home",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+                },
+
+                {
+                    "text" : "About",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/about.html"
+                },
+
+                {
+                    "text" : "Practice area",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/Practice.html"
+                },
+
+                {
+                    "text" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#",
+                    "attributes" : [
+                        {
+                            "text" : "Blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/blog.html"
+                        },
+                        {
+                            "text" : "Single-blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "Pages",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#",
+                    "attribute" : {
+                        "text" : "Elements",
+                        "url" : "https://preview.colorlib.com/theme/lawyer/elements.html"
+                    }
+                },
+
+                {
+                    "text" : "Contact",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html"
+                }
+            ]
+        }
+    ],
+
+    "body" : [
+        {
+            "single-slider" : {
+                "judul" : "Contact"
+            },
+
+            "bawahSingle-slider" : {
+                "judul" : "Google",
+                "img" : "https://maps.gstatic.com/mapfiles/api-3/images/google_gray.svg",
+                "span" : "This page can't load Google Maps correctly.",
+                "text" : "Do you own this website?",
+                "url" : "https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&utm_medium=degraded&utm_campaign=billing#api-key-and-billing-errors",
+                "button" : "OK"
+            },
+
+            "Get in Touch" : [
+                {
+                    "kiri" : {
+                        "placeholder-1" : "Nama",
+                        "placeholder-2" : "Enter your name",
+                        "placeholder-3" : "Email",
+                        "placeholder-4" : "Enter subject",
+                        "button" : "SEND"
+                    },
+
+                    "kanan" : {
+                        "i-1" : "ti-home",
+                        "judul-1" : "Buttonwood, California.",
+                        "text-1" : "Rosemead, CA 91770",
+                        "i-2" : "ti-tablet",
+                        "judul-2" : "+1 253 565 2365",
+                        "text-2" : "Mon to Fri 9am to 6pm",
+                        "i-3" : "ti-email",
+                        "judul-3" : "support@colorlib.com",
+                        "text-3" : "Send us your query anytime!"
+                    }
+                }
+            ]
+        }
+    ],
+
+    "footer" : [
+        {
+            "atas" : [
+                {
+                    "bag-1" : [
+                        {
+                            "judul-1" : "Join With Us",
+                            "attributes" : [
+                                {
+                                    "class" : "first",
+                                    "text" : "Become a Volunteer",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                                },
+                                
+                                {
+                                    "text" : "Become a Donner",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                                }
+                            ]
+                        }
+                    ],
+
+                    "bag-2" : [
+                        {
+                            "judul" : "Address",
+                            "text-1" :"200, A-block, Green road, USA +10 367 267 2678",
+                            "text-2" : "contact@nonprofit.com",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#",
+                            "sosmed" : [
+                                {
+                                    "class" :"fa fa-facebook",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                                },
+                            
+                                {
+                                    "class" : "fa fa-twitter",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                                },
+                            
+                                {
+                                    "class" :"fa fa-instagram",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                                }
+                            ]
+                        }
+                    ],
+
+                    "bag-3" : [
+                        {
+                            "judul" : "Navigation",
+                            "attributes" : [
+                                {
+                                    "text" : "Home",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                                },
+                                {
+                                    "text" : "Room",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                                },
+                                {
+                                    "text" : "About",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                                },
+                                {
+                                    "text" : "News",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html#"
+                                }
+                            ]
+                        }
+                    ],
+
+                    "bag-4" : [
+                        {
+                            "judul" : "Newsletter",
+                            "attributes" : {
+                                "placeholder" : "Enter your mail",
+                                "button" : "Sign up",
+                                "text" : "Subscribe newsletter to get updates"
+                            }
+                        }
+                    ]
+                }
+            ],
+
+            "bawah" : {
+                "text" : "Copyright ©2022 All rights reserved | This template is made with  by Colorlib",
+                "url" : "https://colorlib.com/"
+            }
+        }
+    ]
+}

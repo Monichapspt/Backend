@@ -1,0 +1,491 @@
+{
+    "namaWeb" : "Lawyer",
+    "linkWeb" : "https://preview.colorlib.com/theme/lawyer/",
+    "headers" : [
+        {
+            "kiri" : {
+                "text" : "LAWYER",
+                "img" : "data:image/webp;base64,UklGRogBAABXRUJQVlA4THsBAAAvqwAOEI8gkE3unP/SEJAkfu4/CUgSP/ef1ESSpJx/RSfoMqan6APwfzxcPBxcHGwcLAwaCQeDKoRs27bpQNrLCSIc0f//uUhdU68d0f8J+Pe31h/6P2e83M+8XDsvPt2lLGrpkvysCy/XoqwXd5nb+MUK9VkC3zSOqcI1GS5Jhk+GLwhxvifHYjTwt7iBcyMYkhIkSTc2pkqUVIlamR46WVKDt7hIsIs0ScEIkipJy4hLhn+eIvUlDjzRNhen1EkHLiXayomqZL1f5xiVtOkcUqFeFCmEe6WIW+hfMAL9HU6KBoyVjKEj3J2oTtTWgazdsm6slGIUvYPRpcy1ydRBlIxxUXaKhP7A3N3vXQwcVe/QOCQ14qaRK0XKtER/0Eh6oodOVsX0EpltXw0s06XGGWw8cPIXKFLeYYTQ3N0TZaUDTNIAsr6Lw/2bne7ep0rU3LFNgVOSIrRPCz4/USb9ZrNNkbqQ4asOPl2E+9PW95MRaL/W6/+Py58aAA==",
+                "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+            },
+            
+            "tengah" : [
+                {
+                    "text" : "home",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+                },
+
+                {
+                    "text" : "About",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/about.html"
+                },
+
+                {
+                    "text" : "Practice area",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/Practice.html"
+                },
+
+                {
+                    "text" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#",
+                    "attributes" : [
+                        {
+                            "text" : "Blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/blog.html"
+                        },
+                        {
+                            "text" : "Single-blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "Pages",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#",
+                    "attribute" : {
+                        "text" : "Elements",
+                        "url" : "https://preview.colorlib.com/theme/lawyer/elements.html"
+                    }
+                },
+
+                {
+                    "text" : "Contact",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html"
+                }
+                
+            ],
+
+            "kanan" : [
+                {
+                    "class" : "fa fa-facebook",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                },
+
+                {
+                    "class" : "fa fa-twitter",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                },
+
+                {
+                    "class" : "fa fa-instagram",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#"
+                }
+            ],
+
+            "menu" : [
+                {
+                    "text" : "home",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/index.html"
+                },
+
+                {
+                    "text" : "About",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/about.html"
+                },
+
+                {
+                    "text" : "Practice area",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/Practice.html"
+                },
+
+                {
+                    "text" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#",
+                    "attributes" : [
+                        {
+                            "text" : "Blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/blog.html"
+                        },
+                        {
+                            "text" : "Single-blog",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/single-blog.html"
+                        }
+                    ]
+                },
+
+                {
+                    "text" : "Pages",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/#",
+                    "attribute" : {
+                        "text" : "Elements",
+                        "url" : "https://preview.colorlib.com/theme/lawyer/elements.html"
+                    }
+                },
+
+                {
+                    "text" : "Contact",
+                    "url" : "https://preview.colorlib.com/theme/lawyer/contact.html"
+                }
+            ]
+        }
+    ],
+
+    "body" : [
+        {
+            "judul" : "elements",
+            "attributes" : [
+                {
+                    "sample-text-area" : {
+                        "judul" : "Text Sample",
+                        "text" : "Every avid independent filmmaker has Bold about making that Italic interest documentary, or short film to show off their creative prowess. Many have great ideas and want to “wow” theSuperscript scene, or video renters with their big project. But once you have theSubscript “in the can” (no easy feat), how do you move from a Strike through of master DVDs with the “Underline” marked hand-written title inside a secondhand CD case, to a pile of cardboard boxes full of shiny new, retail-ready DVDs, with UPC barcodes and polywrap sitting on your doorstep? You need to create eye-popping artwork and have your project replicated. Using a reputable full service DVD Replication company like PacificDisc, Inc. to partner with is certainly a helpful option to ensure a professional end result, but to help with your DVD replication project, here are 4 easy steps to follow for good DVD replication results:"
+                    },
+
+                    "button-area" : {
+                        "judul" : "Sample Buttons",
+                        "attributes" : [
+                            {
+                                "text" : "Default",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Primary",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Success",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Info",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Warning",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Danger",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Link",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Disable",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Extra Large",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Large",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Default",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Medium",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            },
+                            {
+                                "text" : "Small",
+                                "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                            }
+                        ]
+                    },
+
+                    "whole-wrap" :[
+                        {
+                            "section-top-border" : {
+                                "judul" : "Left Aligned",
+                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/xd.jpg.pagespeed.ic.8I1txj481O.webp",
+                                "text" : "Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government. But, after a fortnight, the online casino industry came up with a solution and new online casinos started taking root. These began to operate under a different business umbrella, and by doing that, rendered the transfer of money to and from them legal. A major part of this was enlisting electronic banking systems that would accept this new clarification and start doing business with me. Listed in this article are the electronic banking systems that accept players from the United States that wish to play in online casinos."
+                            },
+
+                            "section-top-border text-right" : {
+                                "judul" : "Right Aligned",
+                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/xd.jpg.pagespeed.ic.8I1txj481O.webp",
+                                "text" : "Over time, even the most sophisticated, memory packed computer can begin to run slow if we don’t do something to prevent it. The reason why has less to do with how computers are made and how they age and more to do with the way we use them. You see, all of the daily tasks that we do on our PC from running programs to downloading and deleting software can make our computer sluggish. To keep this from happening, you need to understand the reasons why your PC is getting slower and do something to keep your PC running at its best. You can do this through regular maintenance and PC performance optimization programs. Before we discuss all of the things that could be affecting your PC’s performance, let’s talk a little about what symptoms"
+                            },
+
+                            "definition" : [
+                                {
+                                    "def-1" : {
+                                        "judul" : "Definition 01",
+                                        "text" : "Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks"
+                                    },
+
+                                    "def-2" : {
+                                        "judul" : "Definition 02",
+                                        "text" : "Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks"
+                                    },
+
+                                    "def-3" : {
+                                        "judul" : "Definition 03",
+                                        "text" : "Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks"
+                                    }
+                                }
+                            ],
+
+                            "quotes" : {
+                                "judul" : "Block Quotes",
+                                "text" : "Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government. But, after a fortnight, the online casino industry came up with a solution and new online casinos started taking root. These began to operate under a different business umbrella, and by doing that, rendered the transfer of money to and from them legal. A major part of this was enlisting electronic banking systems that would accept this new clarification and start doing business with me. Listed in this article are the electronic banking"
+                            },
+
+                            "table" : {
+                                "judul" : "Table",
+                                "attributes" : [
+                                    {
+                                        "page-1" : {
+                                            "serial" : "#",
+                                            "country" : "COUNTRIES",
+                                            "visit" : "VISITS",
+                                            "percentage" : "PERCENTAGES"
+                                        },
+                                        "page-2" : {
+                                            "img" : "data:image/webp;base64,UklGRtoBAABXRUJQVlA4IM4BAADQCQCdASoyAB4APm0wlEWkIyIUDAaoQAbEtgBYkqCrvwb/IcSxRndo3oAdJYV4IZb5D0wA2uYXdW6mZnj074DDLjraJ3yvF0Cwpnixvwjr0IKxW1nyZwAA/rno1qjf/lbWnmxUhDjro5R37ySKIN/lYXXWqPuoXgTWH1fX4xId3U/7Cgn+hY63f9/dJR3dT3BXQdk9xT3faCgsagizQpyWv8R+frvbOUNs4ybqoh5m2Q89LG1B6o+ngtfEaTnwepEh+ONDhKGIQfFTJv53Y29jwcxzxnig+g67RRG+0Gutr6lRC6jpu8vW8w/OdBvie5UL058SbbNIrt3QscpH/54tZ8VpeJwy2o/j+uxLbK33AdMiP8CMPdOGffyLqkMgk670kcv7v/LXvoVP+mr7/5Madj6/ufjvZFtfTV9/8i92xxz2NIWi9utz+D6HieeWJyuN6Uow2al4L1WN4jtA56vSeWECZVzTbvegukUrQ2l57KfkytPWMKSiJvqLrmw0GCM9pjWNHQr0KY1eaBVjdhu/7u0IXW/ygUqC6cI9khIe+/rX8OaiAWwj46p9KE7DvFwEzLYMOEad8048PiE0P2mdiMPV//T1jdbXEwAAAAA=",
+                                            "serial" : "1",
+                                            "country" : "Canada",
+                                            "visit" : "645032",
+                                            "percentage" : "Progres-bar"
+                                        },
+                                        "page-3" : {
+                                            "img" : "data:image/webp;base64,UklGRgoCAABXRUJQVlA4IP4BAACwCwCdASoyAB4APm00lEikIqGhJApIgA2JbADFC/cCJ8R+EtTV/nXyjxAP1A99HTAOeM/zPt/1pOuZmEX3AeYB9C/Ky0lPRHsBgz4ol+csXVapSgokcQssHIOYJHaRuc+8qVcChKAA/vGkg2u50AyGJplN6gNuFkecDrL6gD8Z4ha2Xs3k/O4vZvya3ZUBfLy9X/4p/3lOTyCmMiO+Z1lpPaybFPmq6N1SW9knT+6iU0tBEu34mnvewy2A9T6V4Cv3Tyc0WtA7KW3Acyv/Gh5rm1pbzX8cUT3aV2mkXSdTRQVwfHb2Zs2dM//hzgNjdjoYFmj2syTzMv9dMTpOy+uh8vTDzZ+eRraEwehMYjz9ufpAHLRHPcv4//1Mxf57fqdnhwBtOEEfkaSumYzP1SXys3lfgMquxtb+xcsb+ctjv4w78dnJ8qvr1e8DzAL3Z2Xv6IG35VBHoA/469z26JvPVCu+Hshr0oY5jK+QJi5YQZyzC2hMtaXfKf+w3XYzb9mI1yqEfln+HTv5hi2pPZ14I9HPnn7xtdlcm0GfOywdFjiEJSikoSASSdEGFUi/eiMHQf/uiMHB1O9kvXX+5OX2oKL2Uqxm2/Fc+h4Skoh3/skSZx/v/wfXFMAO/BCTdvgEBISLMFtIwJ1+7hkMPqWA7qFpinEekZtmRyUAAAA=",
+                                            "serial" : "2",
+                                            "country" : "Canada",
+                                            "visit" : "645032",
+                                            "percentage" : "Progres-bar"
+                                        },
+                                        "page-4" : {
+                                            "img" : "data:image/webp;base64,UklGRpgDAABXRUJQVlA4IIwDAAAQEgCdASoyAB4APmkqkEWkIqGYBgBABoS2AE6coKgPIH7hx3chfAjcnqA8RjpZ/sB6gP18/3ftM/0D0wPSj/oHWAeir5X/7AfC5+2XpQXKXli5JU4Xyk2ru9FZItYkxzyH/Pv/d9wb9Yv9wNkh2PJpWNKEKUPgviU3lUUv9xu+ZoU1VwAsnL/RGHbiP04X78wS9VvCYZ7scwAA/vs3F+PSkOUM+LtGaKwM2kINGRQckFVNBC15ka7igVx7recStKBQgMshtCg8H4it/yhP/gEo39RvVwxkPxAp3aJATX3e3xH4VLkaVz+qv71mzI6/kDgVXaEWjQtfyLbzrRzR+ML4kOX9Nm6zJUCzJEvX+Inf/Hb/+mbl7//48/f/Exyizy5fvWPv/1gLJUHjn4oEKr6unlmFDZDMJP0dj35h+G2lYr6elolb5/6qnjFf/Q94G6Z1bL1e7ZdrxOgb/hGoeTf9vMp5L3gz6rmPwsH29kxaB58eQkq7FiMBb2Hx/sy2ydX3Z4B9ySm6hDraEiVrEtsnVlS2B6/yicKDgn061o94MzEsM7uLmRPNyjSV2Ya5Rfx7AFgP+T4Z/+AMlpiKB5Y3IJXnpvbuMMBEhidaZVlvDszsh/hZhKJV498ZAicw/Zohs//9mM8j/Q9KpPB8AXjR1vxMflC5HDgfhBRjmQ+Q6rV95aHpw9m9rVGRDdSGpEqPqOKEEZ7SdnzPMzp87cr/GJRRq8ABYu4diRa3vPriWN635T+PqgyqlqY/6bPno5YHfbesjMf6E6otfJuqsNQo1H35eD5/oiYOHtKjbkl47O/ZrCDwq2/QJwvNT5dlnL1Z3me/rcHM0+JJ09A/92fXzz58oGumgLJ/nYzlTMaRK/8CF9uPGHjODYLKxD+J3f6o04pUJGYH5wMuX1gvnf+4k0BR7x/CLbOeUjqX92L/ujw36Rv/JXrZ3ta08TG2UtkCaGMdCjvSxCjAV+zM9jq+0ntK7/hsHnprDskr/hGyKP/28yngSTNmUdUSA0XDHvz/4Q5+ytpOaygWLMEj1Pr55sO/WnI+0g320X2SSB6J/7tIOPibX8Pchqk65khjOrSrYM1cV7hGYIZzPyb7sI+OA1eYA4tXjNq/ixb9UR4r1kO1shYSbeAvL+iIXCdnK7zNntP/9Xmsv2h+BZNWEc9P3SHsIlVnhXJcLQ4Oxo1w6AgwQ/mowGdLzPAAAA==",
+                                            "serial" : "3",
+                                            "country" : "Canada",
+                                            "visit" : "645032",
+                                            "percentage" : "Progres-bar"
+                                        },
+                                        "page-5" : {
+                                            "img" : "data:image/webp;base64,UklGRhQCAABXRUJQVlA4IAgCAADwCgCdASoyAB4APm0wkkckIqGhKAwAgA2JYgB3n3DVBwdQB6AH6Aekj7Gv7Jei9dsX1xBAeDPz684H0X7A36nb5L+tYefrWfgVn8Lsu1HRMSwv+2Vyu5E/hU0BNOYoVwAA4npJwXUjis05XuolC9in2hAHAWh8yoFuEXb5ed/6cnN5N9QZd4rD9oRhw7Tb2ie0npbM2msJyBv0c+xRj9OoKhnkKfmDHRD/1AMO/aL+/KGWuWRqms1+NXDyVZxo7QzBvjuilWnz77pHSmt18erYTegzYPOSN2U/O56Gh+PSVn3mkIw6mFxj+8oPYoaJLsK3xMf+VP8HoxmAyuH8yH8nZX/LVlAHZdZl3rOhOOv1zgrtxncBz8ih7TKuJbzC/XKUp+OyOjBoINFqXPwnFTDSKFhuI9H6OfZdQNoOg3+yTm2eMo9STMcceUuIko2wA50cnqI8yJE5BWOfKjSLTXG2DakXwN1328/+3jqlh58O8TfPYM1w/uQWQKnZF+dXwmwVhuAHgqceOCcn82KdaIFTAEMXDjzEaOEUQ8kfV3bm5c3BeUf24fG9L3Xrse8V+yhAhRMkqmcCyUVgVj7BFs6r0pWUC4zECI4ABkmAC2Pxu/iMyBSU5NPIH+0sYnE+bweoxYxZZUfNoyLiyhkqc+Rlw8FrBTACD6fHwPL90uhYz4fuyDIAAAAA",
+                                            "serial" : "4",
+                                            "country" : "Canada",
+                                            "visit" : "645032",
+                                            "percentage" : "Progres-bar"
+                                        },
+                                        "page-6" : {
+                                            "img" : "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBACdASoyAB4APm02l0ikIqIhJAgAgA2JYwB2APwAUIAAU4/0Orw4oCiaNgAA/uK6eiNZmCRLqDvqhhkL4cXfoDdWjCVJ26lHDdAS6r7kfWlp8BRJmdYR4moW4v6AN///+YgwZlopnMPkpVWmKgMzJfX7pq3v6+Cf//bW9OYe/eqGey26ZuEfqg9nTJfX/Rpqn8t/FBtSn9vN/zEBx0XtFQ46sVuuXq5nc/1d/lM/FfBqWNwAAA==",
+                                            "serial" : "5",
+                                            "country" : "Canada",
+                                            "visit" : "645032",
+                                            "percentage" : "Progres-bar"
+                                        },
+                                        "page-7" : {
+                                            "img" : "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAADQCACdASoyAB4APmEij0WkIiGb/qwAQAYEtQBBhaRvKN5370zYBtOX6zb7BwAHlIexz+tPo2AhX8CFNfBJqQs1T35oYT0q5/UvHdypgcIAAP75CmkWzL/+5VIUB///Cs4F5pfVbcbSZxJ8CDLDOaO7/a0d1B/5ztilBbrJEJAb+RUHxWy8G/xlZ8HP/HnUiptqmEL2Sk0P/HWt0/CPgytiBvO7sWE9T/VDPej1ijAX0YM/l95Y9AdxilJluQMsNrFIp/lkPFbOGMvktkoU8PGZaKg/yTz/9emL8Qm574JxVbxdUAAAAA==",
+                                            "serial" : "6",
+                                            "country" : "Canada",
+                                            "visit" : "645032",
+                                            "percentage" : "Progres-bar"
+                                        },
+                                        "page-8" : {
+                                            "img" : "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBQCdASoyAB4APmkmkEWkIiGZ/mQAQAaEoAeDfwD8YPwz5AFeAZIADWSv4DFIggA5BafjAAD+/Tct/vAXInzsqQn//3VyDX7dSz0+1v/9NqjJ7Z/8JB1tY2yNEU9h/pGiKfEtOLgdTN+KQA9MaB0tLgAAAA==",
+                                            "serial" : "7",
+                                            "country" : "Canada",
+                                            "visit" : "645032",
+                                            "percentage" : "Progres-bar"
+                                        },
+                                        "page-9" : {
+                                            "img" : "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABwBgCdASozAB8APmUqjkWkIqEZ/M6oQAZEtQBnUfG8Yk5P9muOoBZtZiqsRurvpAecJUik0NgBc3hK/wAA/v6Q5Q80f9uL8tcrjHDZZK1lmLdv9z2XX/KOd+hXV/2jbZG+IrvmsgMyAdQ2uIzb1il3B05PbyTQAsP5rxldechyi9ScQ8oI/Ut7fDbnjzYrAaBxBD2bTAbPZn/A/OWyYgDga5q288esypsB7wNdPBtF5ewKrcA/2wxPbasQQoxei2gAAA==",
+                                            "serial" : "8",
+                                            "country" : "Canada",
+                                            "visit" : "645032",
+                                            "percentage" : "Progres-bar"
+                                        }
+                                    }
+                                ]
+                            },
+
+                            "image" : [
+                                {
+                                    "judul" : "Image Gallery",
+                                    "galery" : [
+                                        {
+                                            "img-1" : {
+                                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/g1.jpg"
+                                            },
+                                            "img-2" : {
+                                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/g1.jpg"
+                                            },
+                                            "img-3" : {
+                                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/g1.jpg"
+                                            },
+                                            "img-4" : {
+                                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/g1.jpg"
+                                            },
+                                            "img-5" : {
+                                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/g1.jpg"
+                                            },
+                                            "img-6" : {
+                                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/g1.jpg"
+                                            },
+                                            "img-7" : {
+                                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/g1.jpg"
+                                            },
+                                            "img-8" : {
+                                                "img" : "https://preview.colorlib.com/theme/lawyer/img/elements/g1.jpg"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+
+                            "sectio-top-border" : [
+                                {
+                                    "bag-1" : {
+                                        "judul-utama" : "Image Gallery",
+                                        "judul-1" : "This is header 01",
+                                        "judul-2" : "This is header 02",
+                                        "judul-3" : "This is header 03",
+                                        "judul-4" : "This is header 04",
+                                        "judul-5" : "This is header 01",
+                                        "judul-6" : "This is header 01"
+                                    },
+
+                                    "bag-2" : {
+                                        "judul-utama" : "Unordered List",
+                                        "judul-1" : "Fta Keys",
+                                        "judul-2" : "For Women Only Your Computer Usage",
+                                        "judul-3" : "Facts Why Inkjet Printing Is Very Appealing",
+                                        "judul-4" : "Addiction When Gambling Becomes",
+                                        "judul-5" : "Protective Preventative Maintenance",
+                                        "judul-6" : "Dealing With Technical Support 10 Useful Tips",
+                                        "judul-7" : "Make Myspace Your Best Designed Space",
+                                        "judul-8" : "Cleaning And Organizing Your Computer"
+                                    },
+
+                                    "bag-3" : {
+                                        "judul-utama" : "Ordered List",
+                                        "judul-1" : "Fta Keys",
+                                        "judul-2" : "For Women Only Your Computer Usage",
+                                        "judul-3" : "Facts Why Inkjet Printing Is Very Appealing",
+                                        "judul-4" : "Addiction When Gambling Becomes",
+                                        "judul-5" : "Protective Preventative Maintenance",
+                                        "judul-6" : "Dealing With Technical Support 10 Useful Tips",
+                                        "judul-7" : "Make Myspace Your Best Designed Space",
+                                        "judul-8" : "Cleaning And Organizing Your Computer"
+                                    }
+                                }
+                            ],
+
+                            "form" : {
+                                "judul" : "Form Element",
+                                "placeholder-1" : "First name",
+                                "placeholder-2" : "Last name",
+                                "placeholder-3" : "Last name",
+                                "placeholder-4" : "Email Address",
+                                "placeholder-5" : "Address",
+                                "placeholder-6" : "City",
+                                "placeholder-7" : "Country",
+                                "placeholder-8" : "Message",
+                                "placeholder-9" : "Primary color",
+                                "placeholder-10" : "Accent color",
+                                "placeholder-11" : "Secondary color"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+
+    "footer" : [
+        {
+            "atas" : [
+                {
+                    "bag-1" : [
+                        {
+                            "img" : "data:image/webp;base64,UklGRogBAABXRUJQVlA4THsBAAAvqwAOEI8gkE3unP/SEJAkfu4/CUgSP/ef1ESSpJx/RSfoMqan6APwfzxcPBxcHGwcLAwaCQeDKoRs27bpQNrLCSIc0f//uUhdU68d0f8J+Pe31h/6P2e83M+8XDsvPt2lLGrpkvysCy/XoqwXd5nb+MUK9VkC3zSOqcI1GS5Jhk+GLwhxvifHYjTwt7iBcyMYkhIkSTc2pkqUVIlamR46WVKDt7hIsIs0ScEIkipJy4hLhn+eIvUlDjzRNhen1EkHLiXayomqZL1f5xiVtOkcUqFeFCmEe6WIW+hfMAL9HU6KBoyVjKEj3J2oTtTWgazdsm6slGIUvYPRpcy1ydRBlIxxUXaKhP7A3N3vXQwcVe/QOCQ14qaRK0XKtER/0Eh6oodOVsX0EpltXw0s06XGGWw8cPIXKFLeYYTQ3N0TZaUDTNIAsr6Lw/2bne7ep0rU3LFNgVOSIrRPCz4/USb9ZrNNkbqQ4asOPl2E+9PW95MRaL/W6/+Py58aAA==",
+                            "text-1" : "LAWYER",
+                            "text-2" :"200, A-block, Green road, USA +10 367 267 2678",
+                            "text-3" : "lawyer@contact.com",
+                            "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#",
+                            "sosmed" : [
+                                {
+                                    "class" :"fa fa-facebook",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                },
+                            
+                                {
+                                    "class" : "fa fa-twitter",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                },
+                            
+                                {
+                                    "class" :"fa fa-instagram",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                }
+                            ]
+                        }
+                    ],
+                
+                    "bag-2" : [
+                        {
+                            "judul" : "Practice Area",
+                            "attributes" : [
+                                {
+                                    "text" : "Business Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                },
+                            
+                                {
+                                    "text" : "Finance Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                },
+                            
+                                {
+                                    "text" : "Education Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                },
+                            
+                                {
+                                    "text" : "Family Law",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                }
+                            ]
+                        }
+                    ],
+                
+                    "bag-3" : [
+                        {
+                            "judul" : "Useful Links",
+                            "attributes" : [
+                                {
+                                    "text" : "About",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                },
+                            
+                                {
+                                    "text" : "Blog",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                },
+                            
+                                {
+                                    "text" : "Contact",
+                                    "url" : "https://preview.colorlib.com/theme/lawyer/elements.html#"
+                                }
+                            ]
+                        }
+                    ],
+                
+                    "bag-4" :[
+                        {
+                            "judul" : "Subscribe",
+                            "attributes" : {
+                                "placeholder" : "Enter your mail",
+                                "button" : "Sign up",
+                                "text" : "Subscribe newsletter to get updates"
+                            }
+                        }
+                    ]
+                }
+            ],
+
+            "bawah" : {
+                "text" : "Copyright ©2022 All rights reserved | This template is made with  by Colorlib",
+                "url" : "https://colorlib.com/"
+            }
+        }
+    ]
+}
